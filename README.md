@@ -1,1 +1,1 @@
-thay khanh tap day lap trinh
+hello word
